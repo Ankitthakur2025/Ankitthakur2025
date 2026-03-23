@@ -16,6 +16,11 @@
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ankitthakur2025&label=Profile%20Views&color=58a6ff&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Ankitthakur2025?label=Followers&style=flat-square&color=58a6ff)
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -69,6 +74,7 @@ ankit = {
 
 ## 🛠️ Tech Stack
 
+<div align="center">
 
 ### 🐍 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -130,6 +136,16 @@ ankit = {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ankitthakur2025&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ankitthakur2025&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

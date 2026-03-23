@@ -14,11 +14,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitthakur592000@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ankitthakur2025&label=Profile%20Views&color=58a6ff&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Ankitthakur2025?label=Followers&style=flat-square&color=58a6ff)
-
 </div>
 
 ---
@@ -73,8 +68,6 @@ ankit = {
 ---
 
 ## 🛠️ Tech Stack
-
-
 
 ### 🐍 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

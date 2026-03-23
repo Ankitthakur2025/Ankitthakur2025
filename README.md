@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-thakur-007280235)
 [![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Ankit6205092000)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitthakur592000@gmail.com)
 
 <br/>
 
@@ -54,12 +54,19 @@ ankit = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Tech Stack |
 |---|---|---|
+| [**🏥 Explainable AI for Healthcare**](https://github.com/Ankitthakur2025/-Explainable-AI-for-Healthcare-User-Interface) | AI-powered healthcare user interface with explainability features for transparent medical decision support | Python · XAI · ML |
 | [**🎭 Face Emotion Recognition**](https://github.com/Ankitthakur2025/Face-Emotion-Recognition) | ML-powered facial emotion detection — classifies happiness, sadness, anger & more using facial landmark feature extraction | Python · OpenCV · ML |
+| [**🤖 AI Virtual Assistant**](https://github.com/Ankitthakur2025/AI-Virtual-Assistant) | An AI virtual assistant built with Python using NLP and ML to provide personalized assistance and perform tasks | Python · NLP · ML |
 | [**🏠 House Price Prediction**](https://github.com/Ankitthakur2025/House_Price_Prediction) | Advanced ML models for accurately estimating house prices — includes data preprocessing, feature engineering & regression | Python · Scikit-learn · Jupyter |
+| [**💳 Credit Card Fraud Detection**](https://github.com/Ankitthakur2025/CREDIT_CARD_FRAUD_DETECTION) | ML-based system to detect fraudulent credit card transactions using classification algorithms | Python · Scikit-learn · Jupyter |
+| [**🚢 Titanic Survival Prediction**](https://github.com/Ankitthakur2025/TITANIC_SURVIVAL_PREDICTION) | Predicting passenger survival on the Titanic using ML classification and feature analysis | Python · Scikit-learn · Jupyter |
 | [**💰 Billionaires Analysis**](https://github.com/Ankitthakur2025/Billionaires_Analysis) | Exploratory data analysis on global billionaires dataset using Python — uncovering wealth distribution insights | Python · Pandas · Matplotlib |
 | [**🍷 Wine Quality Prediction**](https://github.com/Ankitthakur2025/Wine-Quality-Prediction) | Predicting wine quality scores using classification algorithms and feature analysis | Python · Scikit-learn · Jupyter |
 | [**🌸 Iris Flowers Classification**](https://github.com/Ankitthakur2025/Iris_Flowers_Classification) | Classic ML classification project on the Iris dataset with multiple algorithms compared | Python · Scikit-learn · Jupyter |
 | [**✍️ Handwritten Digit Recognition**](https://github.com/Ankitthakur2025/Handwritten-Digit-Recognition) | Deep learning model to recognize handwritten digits using neural networks | Python · TensorFlow/Keras · Jupyter |
+| [**🖐️ Gesture Screen Brightness Control**](https://github.com/Ankitthakur2025/Gesture-screen-britness-control) | Control screen brightness using hand gestures detected via computer vision | Python · OpenCV · Jupyter |
+| [**🧮 Calculator Application**](https://github.com/Ankitthakur2025/Calculator_Application.) | A fully functional calculator application with a clean UI | Java |
+| [**⏰ Alarm Clock**](https://github.com/Ankitthakur2025/Alarm_clock.) | A feature-rich alarm clock application built with Java | Java |
 
 </div>
 
@@ -72,8 +79,7 @@ ankit = {
 ### 🐍 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash Script](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📊 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -83,6 +89,9 @@ ankit = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-%2300C4CC.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 📈 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -93,11 +102,15 @@ ankit = {
 ### 🗄️ Databases
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ☁️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -185,7 +198,7 @@ If you're a recruiter, collaborator, or fellow data enthusiast — I'd love to c
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-FF5733?style=for-the-badge)](https://thakur-ankit-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/ankit-thakur-007280235)
-[![Email](https://img.shields.io/badge/📧%20Email-Say%20Hello-D14836?style=for-the-badge)](mailto:)
+[![Email](https://img.shields.io/badge/📧%20Email-Say%20Hello-D14836?style=for-the-badge)](mailto:ankitthakur592000@gmail.com)
 
 <br/>
 

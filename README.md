@@ -14,11 +14,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitthakur592000@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ankitthakur2025&label=Profile%20Views&color=58a6ff&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Ankitthakur2025?label=Followers&style=flat-square&color=58a6ff)
-
 </div>
 
 ---
@@ -79,7 +74,7 @@ ankit = {
 ### 🐍 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ### 📊 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -140,14 +135,6 @@ ankit = {
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ankitthakur2025&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 

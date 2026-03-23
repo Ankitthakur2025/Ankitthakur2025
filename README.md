@@ -14,51 +14,30 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitthakur592000@gmail.com)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ankitthakur2025&label=Profile%20Views&color=58a6ff&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Ankitthakur2025?label=Followers&style=flat-square&color=58a6ff)
+
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-## 🧑‍💻 About Me
-
 ```python
 ankit = {
-    "name": "Ankit Thakur",
-    "role": "Aspiring Data Analyst | Python Developer | ML Enthusiast",
-    "location": "India 🇮🇳",
-    "languages": ["Python", "SQL"],
-
-    "currently": "Improving skills in Data Analytics, Python, and Problem Solving",
-
-    "collaborating": [
-        "Data Analytics",
-        "Machine Learning",
-        "Python Projects"
-    ],
-
-    "learning": [
-        "Python",
-        "SQL",
-        "Statistics",
-        "Excel",
-        "Power BI",
-        "Tableau"
-    ],
-
-    "ask_me_about": [
-        "Python",
-        "SQL",
-        "Data Analysis",
-        "Machine Learning Basics",
-        "EDA",
-        "GitHub Projects"
-    ],
-
-    "goal": "Become a professional Data Analyst and build impactful AI solutions 🎯",
-
-    "fun_fact": "I enjoy solving real-world problems using data and continuously improving my analytical thinking 🚀"
+    "name"        : "Ankit Thakur",
+    "role"        : "Aspiring Data Scientist & Data Analyst",
+    "location"    : "India 🇮🇳",
+    "languages"   : ["Python", "SQL"],
+    "currently"   : "Improving skills in Data Analytics, Python & Problem Solving",
+    "collaborating": "Data Analytics, Machine Learning & Python-based projects",
+    "learning"    : ["Python", "SQL", "Statistics", "Excel", "Power BI", "Tableau"],
+    "ask_me_about": ["Python Basics", "SQL Queries", "Data Analytics Roadmap", "Beginner AI"],
+    "fun_fact"    : "I enjoy solving problems & learning new tech to become a pro Data Analyst 🎯"
 }
+```
 
 - 🔭 Currently working on improving my skills in **Data Analytics, Python, and Problem Solving**
 - 👯 Looking to collaborate on **Data Analytics, Machine Learning, and Python-based projects**
@@ -100,7 +79,7 @@ ankit = {
 ### 🐍 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📊 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -161,6 +140,14 @@ ankit = {
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ankitthakur2025&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 

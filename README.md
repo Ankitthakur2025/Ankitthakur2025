@@ -4,6 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ankit%20Thakur&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descColor=8b949e" />
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+ML+Models+that+Matter+%F0%9F%A4%96;Exploring+the+World+Through+Data+%F0%9F%8C%8D;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://thakur-ankit-portfolio.netlify.app/)

@@ -20,19 +20,42 @@
 
 ## 🧑‍💻 About Me
 
-```python
 ankit = {
     "name"        : "Ankit Thakur",
-    "role"        : "Aspiring Data Scientist & Data Analyst",
+    "role"        : "Aspiring Data Analyst & Data Scientist",
     "location"    : "India 🇮🇳",
     "languages"   : ["Python", "SQL"],
-    "currently"   : "Improving skills in Data Analytics, Python & Problem Solving",
-    "collaborating": "Data Analytics, Machine Learning & Python-based projects",
-    "learning"    : ["Python", "SQL", "Statistics", "Excel", "Power BI", "Tableau"],
-    "ask_me_about": ["Python Basics", "SQL Queries", "Data Analytics Roadmap", "Beginner AI"],
-    "fun_fact"    : "I enjoy solving problems & learning new tech to become a pro Data Analyst 🎯"
+    
+    "currently"   : "Improving skills in Data Analytics, Python, and Problem Solving",
+    
+    "collaborating": [
+        "Data Analytics",
+        "Machine Learning",
+        "Python Projects"
+    ],
+    
+    "learning"    : [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Excel",
+        "Power BI",
+        "Tableau"
+    ],
+    
+    "ask_me_about": [
+        "Python",
+        "SQL",
+        "Data Analysis",
+        "Machine Learning Basics",
+        "EDA",
+        "GitHub Projects"
+    ],
+    
+    "goal"        : "Become a professional Data Analyst and build impactful AI solutions 🎯",
+    
+    "fun_fact"    : "I enjoy solving real-world problems using data and continuously improving my analytical thinking 🚀"
 }
-```
 
 - 🔭 Currently working on improving my skills in **Data Analytics, Python, and Problem Solving**
 - 👯 Looking to collaborate on **Data Analytics, Machine Learning, and Python-based projects**
